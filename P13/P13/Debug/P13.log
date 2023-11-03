@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\xxuann\desktop\程式設計\1105hw\p13\source\main.c(13): warning C4098: 'main': 'void' 函式正在傳回值
+  P13.vcxproj -> C:\Users\xxuann\Desktop\程式設計\1105HW\P13\Debug\P13.exe
